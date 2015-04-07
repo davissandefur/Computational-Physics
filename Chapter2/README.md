@@ -14,7 +14,9 @@ a) Show that the altitude h above the Earth's surface that the satellite must ha
 where G is Newton's gravitational constant, M is the mass of the Earth, and R is the radius of the Earth.
 
 b) Write a program that asks the user to enter the desired value of T and then calculates and prints out the correct altitude in meters.
+
 c) Use your program to calculate the altitudes of satellites that orbit the Earth once a day (so-called "geosynchronous" orbit), once ever 90 minutes, and once every 45 minutes. What do you conclude from the last of these calculations?
+
 d) Technically a geosynchronous satellite is one that orbits the Earth once per sidereal day, which is 23.93 hours, not 24 hours. Why is this? And how much difference will that make to the altitude of the satellite?
 
 
