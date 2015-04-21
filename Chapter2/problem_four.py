@@ -16,4 +16,4 @@ def relativity(x, v):
 
 if __name__ == '__main__':
 	earth, spaceship = relativity(10,.99)
-        #print(earth,spaceship)	
+	print(earth,spaceship)	
