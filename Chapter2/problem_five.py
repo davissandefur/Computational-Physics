@@ -17,5 +17,5 @@ def probability(m, E, V):
 
 if __name__ == '__main__':
 
-    Transmission, reflection = probability(9.11*10e-11, 10, 9)
+    Transmission, reflection = probability(9.11*10e-31, 10, 9)
     print(Transmission, reflection)
