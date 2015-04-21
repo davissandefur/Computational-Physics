@@ -1,7 +1,7 @@
 # Davis Sandefur
 # Completed on 21 April, 2015
 
-from math import sqrt, pow
+from math import sqrt
 
 
 def probability(m, E, V):
@@ -17,5 +17,5 @@ def probability(m, E, V):
 
 if __name__ == '__main__':
 
-    Transmission, reflection = probability(9.11*pow(10, 11), 10, 9)
+    Transmission, reflection = probability(9.11*10e-11, 10, 9)
     print(Transmission, reflection)
