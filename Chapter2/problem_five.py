@@ -18,4 +18,4 @@ def probability(m, E, V):
 if __name__ == '__main__':
 
     Transmission, reflection = probability(9.11*pow(10, 11), 10, 9)
-    print(Transmission, reflectiongit )
+    print(Transmission, reflection)
